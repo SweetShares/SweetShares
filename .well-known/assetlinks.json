@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.JetiChads.sweetshare",
+    "sha256_cert_fingerprints":
+    ["F7:DE:A6:39:AC:1E:B1:F4:4B:79:36:87:0F:DD:E0:8E:86:E4:48:F6:05:D5:F8:67:B8:B3:94:4E:F9:F5:36:B5"]
+  }
+}]
